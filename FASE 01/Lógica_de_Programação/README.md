@@ -1,5 +1,5 @@
 # FASE 01 -- LÓGICA DE PROGRAMAÇÃO
-Este repositório irá abordar os seguintes assuntos para aprender lógica computacional.
+Este repositório irá abordar os seguintes assuntos para aprender lógica computacional. Será Trabalho no Programa VisualG
 
 # Assuntos desse Bloco 
 Algoritmos - 
@@ -23,9 +23,7 @@ Complexidade
     Tópicos: Algoritmos, Fluxogramas, Pseudocódigo, Variáveis, Tipos, Entrada/Saída, Operadores, Condições e Repetições.
 
     Onde estudar (Vídeo): * Curso de Algoritmos — Curso em Vídeo (Prof. Gustavo Guanabara)
-    Onde estudar (PDF / E-book):"Introdução à Programação: Algoritmos e Estruturas de Dados" (Apostila IFSP/UFSC)
-
- # Material Didático - Bloco 02   
+    Onde estudar (PDF / E-book):"Introdução à Programação: Algoritmos e Estruturas de Dados" (Apostilgit
 🟡 Bloco 2: Estruturação de Dados e Código
     Tópicos: Vetores (Arrays), Matrizes, Modularização (Funções e Procedimentos).
 
